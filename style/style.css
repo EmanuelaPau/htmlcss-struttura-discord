@@ -8,3 +8,33 @@
 .flex {
     display: flex;
 }
+
+.margini-main {
+    
+}
+
+.bordi-neri{
+    border: 2px dashed black;
+}
+
+.bordi-bianchi {
+    border: 2px dashed white;
+}
+
+
+/* Colori:
+header top: #add8e6
+nav: #daa520
+header blu: #00008b
+header rosa: #ee82ee
+
+main blu: #1e90ff
+main rosa: #ffc0cb
+main grigio: #d3d3d3
+main verde: #228b22
+
+footer grigio: #23272a
+footer rosa: #f08080    
+footer verde: #20b2aa
+footer down: #7fffd4
+footer bottoni: #ffb6c1 */
