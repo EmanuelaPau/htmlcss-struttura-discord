@@ -113,7 +113,17 @@ a {
     background-color: #ffc0cb ;
 }
 
+.main-big-content-row.flex{
+    height: 850px;
+    justify-content: center;
+    align-items: center;
+}
 
+.main-big-content-container{
+    background-color: #228b22;
+    flex-basis: 60%;
+    height: 600px;
+}
 
 /* Colori:
 header top: #add8e6
@@ -124,7 +134,7 @@ header rosa: #ee82ee
 main blu: #1e90ff
 main rosa: #ffc0cb
 main grigio: #d3d3d3
-main verde: #228b22
+main verde: 
 
 footer grigio: #23272a
 footer rosa: #f08080    
