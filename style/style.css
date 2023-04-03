@@ -23,9 +23,14 @@ footer {
     display: flex;
 }
 
-.margini-main {
+.container {
     max-width: 1040px;
     margin: 0 auto;
+}
+
+.container-small {
+    max-width: 800px;
+    margin: auto;
 }
 
 .bordi-neri{
@@ -72,16 +77,16 @@ footer {
 
 .header-bottom {
     background-color: #00008b;
-    height: 430px;
     align-items: center;
     justify-content: center;
     border-bottom: 2px solid cyan;
+    padding-top: 45px;
+    padding-bottom: 45px;
 }
 
 .header-container-info {
     background-color: #ee82ee;
     height: 350px;
-    flex-basis: 48%;
 }
 
 .main-row {
@@ -149,6 +154,7 @@ footer {
     background-color: #20b2aa;
     flex-basis: calc(100% / 6);
 }
+
 .footer-bottom {
     padding-top: 25px;
 }
@@ -159,7 +165,6 @@ footer {
     align-items: center;
     justify-content: space-between;
 }
-
 
 .footer-link {
     padding: 5px;
