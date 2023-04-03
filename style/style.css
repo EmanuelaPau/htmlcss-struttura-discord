@@ -22,7 +22,7 @@ a {
 
 .margini-main {
     flex-basis: 1040px;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .bordi-neri{
@@ -35,13 +35,15 @@ a {
 
 .header-top {
     background-color: #add8e6;
-    height: 70px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 .nav {
     background-color: #daa520;
     align-items: center;
     line-height: 1.2rem;
+    
 }
 
 .logo {
@@ -123,6 +125,8 @@ a {
     flex-basis: 100%;
     height: 750px;
 }
+
+
 
 /* Colori:
 header top: #add8e6
