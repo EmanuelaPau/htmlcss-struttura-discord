@@ -24,7 +24,7 @@ footer {
 }
 
 .margini-main {
-    flex-basis: 1040px;
+    max-width: 1040px;
     margin: 0 auto;
 }
 
