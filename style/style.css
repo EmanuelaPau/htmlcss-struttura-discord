@@ -65,6 +65,20 @@ a {
     text-align: right;
 }
 
+.header-bottom {
+    background-color: #00008b;
+    height: 430px;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 2px solid cyan;
+}
+
+.header-container-info {
+    background-color: #ee82ee;
+    height: 350px;
+    flex-basis: 48%;
+}
+
 /* Colori:
 header top: #add8e6
 nav: #daa520
