@@ -80,8 +80,9 @@ a {
 }
 
 .main-row {
-    height: 520px;
     flex-direction: row-reverse;
+    padding-top: 45px;
+    padding-bottom: 45px;
 }
 
 .grey {
@@ -89,13 +90,11 @@ a {
 }
 
 .container-white.flex{
-    height: 520px;
     align-items: center;
     justify-content: center;
 }
 
 .container-grey.flex{
-    height: 520px;
     flex-direction: row-reverse;
     align-items: center;
     justify-content: center;
@@ -103,13 +102,13 @@ a {
 
 .main-txt-row {
     height: 430px;
-    flex-basis: 38%;
+    flex-basis: 70%;
     background-color: #1e90ff;
 }
 
 .main-img-row {
     height: 430px;
-    flex-basis: 25%;
+    flex-basis: 30%;
     background-color: #ffc0cb ;
 }
 
