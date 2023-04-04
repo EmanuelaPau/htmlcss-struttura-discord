@@ -24,13 +24,13 @@ footer {
 }
 
 .container {
-    max-width: 1040px;
+    max-width: 1170px;
     margin: 0 auto;
 }
 
 .container-small {
     max-width: 800px;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .bordi-neri{
@@ -49,9 +49,7 @@ footer {
 
 .nav {
     background-color: #daa520;
-    align-items: center;
-    line-height: 1.2rem;
-    
+    align-items: center;    
 }
 
 .logo {
@@ -60,7 +58,6 @@ footer {
 }
 
 .nav-menu{
-    flex-direction: row;
     list-style-type: none;
     gap: .8rem;
     width: 60%;
@@ -135,7 +132,6 @@ footer {
 }
 
 .footer-top {
-    border-bottom: 1px solid white;
     padding-top:5px;
     padding-bottom: 30px;
 }
